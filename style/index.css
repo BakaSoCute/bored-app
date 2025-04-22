@@ -15,5 +15,11 @@
 
 }
 .main2{
+    width: 700px;
+    height: 700px;
+    margin: 0 auto;
     background-color: aquamarine;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
