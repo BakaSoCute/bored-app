@@ -1,0 +1,27 @@
+.main{
+    width: 700px;
+    height: 700px;
+    margin: 0 auto;
+    background-color:rgb(134, 131, 131);
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.button{
+    width: 100px;
+    background-color: blue;
+    color: white;
+
+}
+.main2{
+    width: 700px;
+    height: 700px;
+    margin: 0 auto;
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/*# sourceMappingURL=/style.f355281c.css.map */
